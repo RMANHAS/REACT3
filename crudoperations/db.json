@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Raj",
+      "email": "rajinderrajput@gmail.com",
+      "city": "puna"
+    },
+    {
+      "name": "rj",
+      "city": "mumbai",
+      "email": "rj@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "rajinder",
+      "city": "delhi",
+      "email": "rajinder@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "sahil kumar",
+      "city": "super nova",
+      "email": "sahil@gmail.com",
+      "id": 11
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
